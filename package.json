@@ -1,6 +1,6 @@
 {
-    "name": "nextjs-monorepo-template",
-    "version": "1.0.0",
+    "name": "nextjs-rpackage-template",
+    "version": "0.0.1",
     "private": true,
     "workspaces": [
       "apps/*",
